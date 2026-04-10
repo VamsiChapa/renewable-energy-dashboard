@@ -1,6 +1,6 @@
 # US Renewable Energy Investment Analysis Dashboard
 
-**Live URL:** [LIVE URL - To be added after deployment]
+**Live URL:** https://renewable-energy-dashboard-zeta.vercel.app
 
 A production-ready multi-tab web application for analyzing US renewable energy investment opportunities. Combines real-time market data from government APIs with an AI-powered research assistant and interactive geographic visualization.
 
